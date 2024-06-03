@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(251, 248, 204);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    margin-top: 1.5em;
+    margin-left: .5em;
+    font-size: 5em;
+}
+
+h2{
+    margin-top: 2em;
+    margin-right: 15em;
+    margin-left: 1.5em;
+
+}
+
+#shirtBase{
+ position: absolute;
+}
+
+#kaal{
+    position: absolute;
+    z-index: +1 ;
+}
+
+.div1{
+display: flex;
+font-size: larger;
+margin-left: 40em;
+margin-top: 5em;
+}
+
+.div2{
+    display: flex;
+    font-size: larger;
+    margin-left: 40em;
+    margin-top: 5em;
+    }
+
+footer{
+    font-size: 3em;
+}
